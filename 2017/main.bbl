@@ -1,0 +1,62 @@
+\begin{thebibliography}{}
+
+\bibitem[Baran et~al., 2015]{Baran:2015cx}
+Baran, Y., Subramaniam, M., Biton, A., Tukiainen, T., Tsang, E.~K., Rivas,
+  M.~A., Pirinen, M., Gutierrez-Arcelus, M., Smith, K.~S., Kukurba, K.~R.,
+  Zhang, R., Eng, C., Torgerson, D.~G., Urbanek, C., {GTEx Consortium}, Li,
+  J.~B., Rodriguez-Santana, J.~R., Burchard, E.~G., Seibold, M.~A., MacArthur,
+  D.~G., Montgomery, S.~B., Zaitlen, N.~A., and Lappalainen, T. (2015).
+\newblock {The landscape of genomic imprinting across diverse adult human
+  tissues.}
+\newblock {\em Genome Research}, 25(7):927--936.
+
+\bibitem[Dobin et~al., 2012]{Dobin:2012fg}
+Dobin, A., Davis, C.~A., Schlesinger, F., Drenkow, J., Zaleski, C., Jha, S.,
+  Batut, P., Chaisson, M., and Gingeras, T.~R. (2012).
+\newblock {STAR: ultrafast universal RNA-seq aligner}.
+\newblock {\em Bioinformatics}, 29(1):15--21.
+
+\bibitem[Docherty et~al., 2014]{Docherty:2014cx}
+Docherty, L.~E., Rezwan, F.~I., Poole, R.~L., Jagoe, H., Lake, H., Lockett,
+  G.~A., Arshad, H., Wilson, D.~I., Holloway, J.~W., Temple, I.~K., and Mackay,
+  D. J.~G. (2014).
+\newblock {Genome-wide DNA methylation analysis of patients with imprinting
+  disorders identifies differentially methylated regions associated with novel
+  candidate imprinted genes.}
+\newblock {\em Journal of medical genetics}, 51(4):229--238.
+
+\bibitem[Gamazon et~al., 2015]{Gamazon:2015fa}
+Gamazon, E.~R., Wheeler, H.~E., Shah, K.~P., Mozaffari, S.~V., Aquino-Michaels,
+  K., Carroll, R.~J., Eyler, A.~E., Denny, J.~C., Nicolae, D.~L., Cox, N.~J.,
+  and Im, H.~K. (2015).
+\newblock {A gene-based association method for mapping traits using reference
+  transcriptome data}.
+\newblock {\em Nature Genetics}, 47(9):1091--1098.
+
+\bibitem[Jun et~al., 2012]{Jun:2012je}
+Jun, G., Flickinger, M., Hetrick, K.~N., Romm, J.~M., Doheny, K.~F., Abecasis,
+  G.~R., Boehnke, M., and Kang, H.~M. (2012).
+\newblock {Detecting and Estimating Contamination of Human DNA Samples in
+  Sequencing and Array-Based Genotype Data}.
+\newblock {\em The American Journal of Human Genetics}, 91(5):839--848.
+
+\bibitem[Mott et~al., 2014]{Mott2014}
+Mott, R., Yuan, W., Kaisaki, P., Gan, X., Cleak, J., Edwards, A., Baud, A., and
+  Flint, J. (2014).
+\newblock {The Architecture of Parent-of-Origin Effects in Mice}.
+\newblock {\em Cell}, 156(1-2):332--342.
+
+\bibitem[Mozaffari et~al., 2017]{Mozaffari:dg}
+Mozaffari, S.~V., DeCara, J.~M., Shah, S.~J., Lang, R.~M., Nicolae, D.~L., and
+  Ober, C. (2017).
+\newblock {Parent of Origin Effects on Quantitative Phenotypes in a Founder
+  Population}.
+\newblock {\em bioRxiv}.
+
+\bibitem[van~de Geijn et~al., 2015]{vandeGeijn:2015hi}
+van~de Geijn, B., McVicker, G., Gilad, Y., and Pritchard, J.~K. (2015).
+\newblock {WASP: allele-specific software for robust molecular quantitative
+  trait locus discovery}.
+\newblock {\em Nature Methods}, 12(11):1061--1063.
+
+\end{thebibliography}
